@@ -55,7 +55,7 @@ Now your app will be running. At [localhost:8080](https://localhost:8080)
 <a name="test"></a>
 ## Tests
 
-This boilerplate comes with a Jest test-runner built-in to start testing your scripts. You can try out the built-in test that comes with the boilerplate in *sum.test.js*. To run the Jest test file execute:
+This boilerplate comes with a built-in Jest test-runner to start testing your scripts. You can try out the built-in test that comes with the boilerplate in *sum.test.js*. To run the Jest test file execute:
 
 ```
 npm run test
