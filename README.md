@@ -62,5 +62,5 @@ npm run test
 To create a test for *YourFile.js* simply create a *YourFile.test.js* file to start coding all the tests you need to run.
 
 <a name="credit"></a>
-# Credits
+# Author
 Sebastián Galindo
