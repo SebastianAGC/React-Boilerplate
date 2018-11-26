@@ -43,7 +43,7 @@ To use the boilerplate, simply navigate to the path *src/components/App/*. In th
 ```
 npm run build
 ```
-This will build your app and generate an index.html, main.js and all of your other components into the "dist" folder. Now that your app is all made up, start it using the following command:
+This will build your app and generate an *index.html*, *main.js* and all of your other components into the "dist" folder. Now that your app is all made up, start it using the following command:
 
 ```
 npm start
