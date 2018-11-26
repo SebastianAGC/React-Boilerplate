@@ -59,7 +59,7 @@ This boilerplate comes with a Jest test-runner built-in to start testing your sc
 ```
 npm run test
 ```
-To create a test create for *YourFile.js* simply create a *YourFile.test.js* to create all the tests you need to run.
+To create a test for *YourFile.js* simply create a *YourFile.test.js* file to start coding all the tests you need to run.
 
 <a name="credit"></a>
 # Credits
