@@ -5,8 +5,9 @@
 2. [ Tools. ](#tool)
 3. [ Installation. ](#inst)
 4. [ Usage. ](#usage)
-4. [ Tests. ](#test)
-5. [ Credits. ](#credit)
+5. [ Tests. ](#test)
+6. [ Linting. ](#lint)
+7. [ Credits. ](#credit)
 
 <a name="desc"></a>
 ## Description
@@ -60,6 +61,20 @@ This boilerplate comes with a Jest test-runner built-in to start testing your sc
 npm run test
 ```
 To create a test for *YourFile.js* simply create a *YourFile.test.js* file to start coding all the tests you need to run.
+
+<a name="lint"></a>
+## Linting
+
+To run the built-in ESLint linter on your app, run the command:
+
+```
+npm run lint
+```
+If you want ESLint to solve as many hot-fixes as it can, run the command:
+
+```
+npm run lint-fix
+```
 
 <a name="credit"></a>
 ## Author
