@@ -70,7 +70,7 @@ To run the built-in ESLint linter on your app, run the command:
 ```
 npm run lint
 ```
-If you want ESLint to solve as many hot-fixes as it can, run the command:
+If you want ESLint to solve as many fixes as it can, run the command:
 
 ```
 npm run lint-fix
