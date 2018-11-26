@@ -1,6 +1,6 @@
 # React-Boilerplate
 
-# Table of Contents
+## Table of Contents
 1. [ Description. ](#desc)
 2. [ Tools. ](#tool)
 3. [ Installation. ](#inst)
@@ -9,11 +9,11 @@
 5. [ Credits. ](#credit)
 
 <a name="desc"></a>
-# Description
+## Description
 Basic boilerplate made with react. It contains a simple adder application as a simple example of how to it works.
 
 <a name="tool"></a>
-# Tools
+## Tools
 This boilerplate comes up with a set of tools to make your development process easier and faster.
 
 - **React:** A JavaScript library for building user interfaces.
@@ -24,7 +24,7 @@ This boilerplate comes up with a set of tools to make your development process e
 - **Jest:** Complete and ready to set-up JavaScript testing solution. Works out of the box for any React project.
 
 <a name="inst"></a>
-# Installation
+## Installation
 First, clone the github repository.
 
 ```
@@ -37,7 +37,7 @@ npm install
 ```
 
 <a name="usage"></a>
-# Usage
+## Usage
 To use the boilerplate, simply navigate to the path *src/components/App/*. In there you'll find two files. *App.js* file is where you are going to the develop your own react application. *App.css* file is where you can customize your css classes to fit your app needs. After modifying your files, run the command:
 
 ```
@@ -52,7 +52,7 @@ npm start
 Now your app will be running. At [localhost:8080](https://localhost:8080)
 
 <a name="test"></a>
-# Tests
+## Tests
 
 This boilerplate comes with a Jest test-runner built-in to start testing your scripts. You can try out the built-in test that comes with the boilerplate in *sum.test.js*. To run the Jest test file execute:
 
@@ -62,5 +62,5 @@ npm run test
 To create a test for *YourFile.js* simply create a *YourFile.test.js* file to start coding all the tests you need to run.
 
 <a name="credit"></a>
-# Author
+## Author
 Sebastián Galindo
